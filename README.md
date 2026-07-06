@@ -84,8 +84,8 @@ Open to: GRC Analyst · Cyber Risk Analyst · Compliance Analyst · Information 
 
 | Project | Frameworks | Scope |
 |---------|-----------|-------|
-| [🤖 NovaMed — AI Risk & Governance Assessment](https://github.com/HiteshkumarPrajapati/cybersecurity/blob/main/projects/NovaMed Health — AI Risk & Governance Assessment) | NIST AI RMF · ISO 42001 · Privacy Act 1988 | Clinical AI risk register, bias assessment, AI governance policy, healthcare data privacy |
-| [🧠 FinSight — Third-Party AI Procurement GRC Review](https://github.com/HiteshkumarPrajapati/cybersecurity/blob/main/projects/FinSight — Third-Party AI Procurement GRC Review) | ISO 42001 · NIST AI RMF · APRA CPS 234 | Vendor AI risk, APRA gap analysis, due diligence questionnaire, contractual controls |
+| [🤖 NovaMed — AI Risk & Governance Assessment](https://github.com/HiteshkumarPrajapati/cybersecurity/tree/main/projects/NovaMed%20Health%20%E2%80%94%20AI%20Risk%20&%20Governance%20Assessment) | NIST AI RMF · ISO 42001 · Privacy Act 1988 | Clinical AI risk register, bias assessment, AI governance policy, healthcare data privacy |
+| [🧠 FinSight — Third-Party AI Procurement GRC Review](https://github.com/HiteshkumarPrajapati/cybersecurity/tree/main/projects/FinSight%20%E2%80%94%20Third-Party%20AI%20Procurement%20GRC%20Review) | ISO 42001 · NIST AI RMF · APRA CPS 234 | Vendor AI risk, APRA gap analysis, due diligence questionnaire, contractual controls |
 
 ### 🟡 Core GRC Skills Projects
 
@@ -192,8 +192,8 @@ Served as technical manager across software design, architecture, and full deplo
 |------------|-------------|------------|
 | [grc-qlyntix-iso27001](https://github.com/HiteshkumarPrajapati/cybersecurity/blob/main/projects/IS0%2027001%3A2022%20Implementation.md) | ISO 27001:2022 ISMS SaaS company, 7-phase implementation, 93-control SoA | ISO/IEC 27001:2022 |
 | [grc-ozcloths](https://github.com/HiteshkumarPrajapati/cybersecurity/blob/main/projects/NIST-Aligned%20Cybersecurity%20Architecture%20%26%20Defense%20Lab.md) | Infrastructure modernisation legacy risk remediation, NIST alignment, OWASP | NIST CSF, NIST SP 800-53, OWASP |
-| [grc-novamed-ai](https://github.com/HiteshkumarPrajapati/cybersecurity/blob/main/projects/NovaMed Health — AI Risk & Governance Assessment) | AI risk and governance healthcare clinical decision support AI | NIST AI RMF, ISO 42001, Privacy Act |
-| [grc-finsight-ai](https://github.com/HiteshkumarPrajapati/cybersecurity/blob/main/projects/FinSight — Third-Party AI Procurement GRC Review) | Third-party AI procurement risk APRA CPS 234, vendor due diligence | ISO 42001, APRA CPS 234, Privacy Act |
+| [grc-novamed-ai](https://github.com/HiteshkumarPrajapati/cybersecurity/tree/main/projects/NovaMed%20Health%20%E2%80%94%20AI%20Risk%20&%20Governance%20Assessment) | AI risk and governance healthcare clinical decision support AI | NIST AI RMF, ISO 42001, Privacy Act |
+| [grc-finsight-ai](https://github.com/HiteshkumarPrajapati/cybersecurity/tree/main/projects/FinSight%20%E2%80%94%20Third-Party%20AI%20Procurement%20GRC%20Review) | Third-party AI procurement risk APRA CPS 234, vendor due diligence | ISO 42001, APRA CPS 234, Privacy Act |
 | [grc-risk-register](https://github.com/yourusername/grc-risk-register) | Risk registers with control mapping and treatment plans | ISO 27001, Essential 8 |
 | [grc-policy-review](https://github.com/yourusername/grc-policy-review) | Security policy gap analysis password, AUP, remote work | NIST, Essential 8 |
 | [grc-gap-assessment](https://github.com/yourusername/grc-gap-assessment) | Control maturity gap assessments at Essential 8 ML2 | ACSC Essential 8, ISO 27001 |
