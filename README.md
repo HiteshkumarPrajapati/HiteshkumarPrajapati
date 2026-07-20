@@ -194,10 +194,10 @@ Served as technical manager across software design, architecture, and full deplo
 | [grc-ozcloths](https://github.com/HiteshkumarPrajapati/cybersecurity/blob/main/projects/NIST-Aligned%20Cybersecurity%20Architecture%20%26%20Defense%20Lab.md) | Infrastructure modernisation legacy risk remediation, NIST alignment, OWASP | NIST CSF, NIST SP 800-53, OWASP |
 | [grc-novamed-ai](https://github.com/HiteshkumarPrajapati/cybersecurity/tree/main/projects/NovaMed%20Health%20%E2%80%94%20AI%20Risk%20&%20Governance%20Assessment) | AI risk and governance healthcare clinical decision support AI | NIST AI RMF, ISO 42001, Privacy Act |
 | [grc-finsight-ai](https://github.com/HiteshkumarPrajapati/cybersecurity/tree/main/projects/FinSight%20%E2%80%94%20Third-Party%20AI%20Procurement%20GRC%20Review) | Third-party AI procurement risk APRA CPS 234, vendor due diligence | ISO 42001, APRA CPS 234, Privacy Act |
-| [grc-risk-register](https://github.com/yourusername/grc-risk-register) | Risk registers with control mapping and treatment plans | ISO 27001, Essential 8 |
-| [grc-policy-review](https://github.com/yourusername/grc-policy-review) | Security policy gap analysis password, AUP, remote work | NIST, Essential 8 |
-| [grc-gap-assessment](https://github.com/yourusername/grc-gap-assessment) | Control maturity gap assessments at Essential 8 ML2 | ACSC Essential 8, ISO 27001 |
-| [grc-audit-findings](https://github.com/yourusername/grc-audit-findings) | Formal audit findings reports condition / criteria / risk / recommendation | ISO 27001, Privacy Act 1988 |
+| [grc-risk-register](https://github.com/HiteshkumarPrajapati/cybersecurity/tree/main/projects/Risk%20Register) | Risk registers with control mapping and treatment plans | ISO 27001, Essential 8 |
+| [grc-policy-review](https://github.com/HiteshkumarPrajapati/cybersecurity/tree/main/GRC/Policy-Review) | Security policy gap analysis password, AUP, remote work | NIST, Essential 8 |
+| [grc-gap-assessment](https://github.com/HiteshkumarPrajapati/cybersecurity/tree/main/GRC/Gap-Assessment) | Control maturity gap assessments at Essential 8 ML2 | ACSC Essential 8, ISO 27001 |
+| [grc-audit-findings](https://github.com/HiteshkumarPrajapati/cybersecurity/tree/main/GRC/Audit-Findings) | Formal audit findings reports condition / criteria / risk / recommendation | ISO 27001, Privacy Act 1988 |
 | [grc-framework-notes](https://github.com/yourusername/grc-framework-notes) | Framework reference notes Essential 8, ISO 27001, NIST, AI RMF, Privacy Act | All frameworks |
 
 ---
