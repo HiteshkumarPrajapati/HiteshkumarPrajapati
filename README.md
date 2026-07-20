@@ -198,6 +198,6 @@ Served as technical manager across software design, architecture, and full deplo
 | [grc-policy-review](https://github.com/HiteshkumarPrajapati/cybersecurity/tree/main/GRC/Policy-Review) | Security policy gap analysis password, AUP, remote work | NIST, Essential 8 |
 | [grc-gap-assessment](https://github.com/HiteshkumarPrajapati/cybersecurity/tree/main/GRC/Gap-Assessment) | Control maturity gap assessments at Essential 8 ML2 | ACSC Essential 8, ISO 27001 |
 | [grc-audit-findings](https://github.com/HiteshkumarPrajapati/cybersecurity/tree/main/GRC/Audit-Findings) | Formal audit findings reports condition / criteria / risk / recommendation | ISO 27001, Privacy Act 1988 |
-| [grc-framework-notes](https://github.com/HiteshkumarPrajapati/cybersecurity/tree/main/GRC/grc-framework-notes) | Framework reference notes Essential 8, ISO 27001, NIST, AI RMF, Privacy Act | All frameworks |
+| [grc-framework-notes](https://github.com/HiteshkumarPrajapati/cybersecurity/tree/main/GRC/GRC-Frameworks) | Framework reference notes Essential 8, ISO 27001, NIST, AI RMF, Privacy Act | All frameworks |
 
 ---
